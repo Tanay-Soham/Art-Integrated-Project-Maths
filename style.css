@@ -10,8 +10,8 @@ table{
 
 }
 
-.chart_art{
-	padding: 10px;
-	border-radius: 8px;
+thead{
+	font-weight: 100;
+
 
 }
