@@ -5,7 +5,14 @@ body{
 
 	font-family: 'Candara',cursive;
 }
-table{
-	border-collapse: collapse;
+table {
+  border-collapse: collapse;
+}
+td:hover {background-color: yellow;}
+
+
+.chart_art{
+	padding: 10px;
+	border-radius: 8px;
 
 }
